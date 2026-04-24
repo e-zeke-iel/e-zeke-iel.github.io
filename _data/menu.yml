@@ -1,15 +1,16 @@
-- name: Home
-  link: /
-
-- title: all posts
-  post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-- name: About
-  link: /about/
-
-- name: GitHub
-  link: https://github.com/e-zeke-iel
+entries:
+  - name: Home
+    link: /
+  
+  - title: all posts
+    post_list:
+        limit: 5
+        show_more: true
+        show_more_text: See archive...
+        show_more_url: archive.html
+  
+  - name: About
+    link: /about/
+  
+  - name: GitHub
+    link: https://github.com/e-zeke-iel
