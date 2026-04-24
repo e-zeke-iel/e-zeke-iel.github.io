@@ -2,7 +2,7 @@
   link: /
 
 - name: Blog
-  link: /posts/
+  link: /_posts/
 
 - name: About
   link: /about/
