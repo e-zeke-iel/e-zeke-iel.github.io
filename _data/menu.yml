@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+
+- name: Blog
+  link: /posts/
+
+- name: About
+  link: /about/
+
+- name: GitHub
+  link: https://github.com/e-zeke-iel
