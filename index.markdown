@@ -6,3 +6,6 @@ layout: home
 ---
 
 # Home
+
+- [Test Link](/about/)
+- [Google](https://google.com)
