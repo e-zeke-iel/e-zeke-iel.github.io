@@ -1,29 +1,136 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-date:   2026-04-23 18:40:21 -0400
+layout: post
+title:  "Europe, WWI"
+date:   2026-04-24
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### historical summary based on [The Origins of World War 1][theoriginsofww1], by Joachim Remak
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+1871-1890 -- the age of bismark
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- 1870-1871 // The Franco-Prussian War 
+  - France
+    - The end of **Napoleon III** and the re-establishment of a French Republic. 
+    - According to the terms of the [Treaty of Frankfurt][treatyoffrankfurt], 
+      - France to pay 5,000,000,000 French francs,
+      - to surrender the province of Alsace as well as a considerable portion of Lorraine.
+  - Germany
+    - Prussia became unified under the German Empire, led by **Otto von Bismarck**
+  - Lasting tensions:
+    - Alsace-Lorraine
+      - Military motivation for annexation: the fortress of Metz in Lorraine was important to secure Germany against possible French attack
+      - Public opinion desired some concrete fruits of victory
+      - No matter the reasoning, this annexation created a cultural and diplomatic rift between Germany and France
+        - "Too many Frenchmen refused to resign themselves to the loss of Alsace-Lorraine" - p. 3 
+    - Europe's balance of power
+      - Only England and Russia maintained their places in comparison to pre-1871 Europe
+      - Austria weakened substantially
+      - France weakened substantially
+      - Prussia/Prussia-Germany strengthened substantially **
+      - Italy strengthened substantially
+- 1873 // The Three Emperor's League
+  - An alliance between Germany, Austria-Hungary, and Russia
+  - Terms:
+    - They would consuly one another on matters of mutual interest
+    - They would, at minimum, maintain friendly neutrality if one was attacked by another power
+  - Motivations for alliance
+    - Austria desired peace w/ Germany
+    - Germany wished to elimate the threat of a two-front war (Russia & France v. Germany) 
+  - Weaknesses
+    - Austria and Russia had conflicting national interest in regards to Southeastern Europe
+- 1875 // Revolt in Bosnia and Gerzegoniva against Ottoman Empire rule
+  - Motivations for revolt
+    - economic discontent
+    - national consciousness
+    - religious tension (Christian population v. the Muslim Turks)
+  - Serbia and Montenegro decided to fight for Bosnia.
+  - Revolt spread to Bulgaria.
+- 1877 // Russia joins fight against the Ottoman Empire.
+  - Russia desired weakened Ottomon Empire
+    - Control of the Dardanelles Strait for both shipping and navy
+    - Russian Pan-Slavism
+      - a desire to liberate the Slavs living under foreign (Austrian and Turkish) rule. 
+  - Russia ultimately won against Ottoman rule.
+- 1878, March // The Treaty of San Stefano
+  - Bulgaria was to become an autonomous principality stretching from the Black Sea to the Adriatic
+    - This was considered a misdirection, as the treaty included a two-year Russian occupation
+  - Romania, Serbia, and Montenegro were to be independent
+  - Bosnia and Hergoslavia was to be autonomous
+  - Russia would gain Romanian Bessarabia, territory in the Caucasus, and a large indemity
+  - This treaty upset the balance of power and angered the rest of Europe
+- 1878, Summer // Meeting at Berlin to reconsider San Stefano
+  - Led by Bismarck
+  - Serbia and Montenegro was to remain independent
+  - Russia kept Kars, Batum, Bessarabia
+  - Bulgaria's size was reduced to 1/3 the size envisioned by San Stefano
+  - Britain gained Cyprus, France gained Tunis, Austria gained Bosnia and Herzegovina
+  - Russia felt betrayed by Germany, esp considering the Three Emperor's League
+  - Borders in the Balkans were drawn without concern for the populations, ignoring "ethnic realities and national ambitions"
+- 1879 // The Duel Alliance
+  - Three Emperor's League was over after Berlin.
+  - Replaced with The Duel Alliance btwn Germany and Austria
+  - Should Russia attack either country, they would aid eachother
+  - Should they be attacked by a power besides Russia, they would remain neutral
+- 1881 // Three Emperors' League Renewed
+  - Btwn Germany, Russia, Austria
+  - If any one of them was to find itself at war with a fourth power, the other two would remain neutral
+  - Neutrality only applied to a war against the Ottomon Empire if the members first agreed on the results of the war
+  - Lacked the defensive clause included in the first Three Emperors' League
+- 1882 // The Triple Alliance
+  - Italy joined The Duel Alliance
+- 1885 - 1887 // The Bulgarian Crisis & End of the Three Emperors' League
+  - Bulgaria supports a revolt in Eastern Rumelia, aiming for annexation
+    - Eastern Rumelia was very Bulgarian, this territory was included in San Stefano but removed in Berlin. Note the drawing of territories by larger imperial powers that lead to conflicts.
+  - Serbia declared war, fearing a powerful Bulgaria
+  - Bulgaria wins against Serbia
+  - Russia threatens to occupy Bulgaria
+    - Austria takes stand for independent Bulgaria in order to halt Russian control of the Balkans.
+    - Great Britain and Germany stand against Russia
+    - This ends the Three Emperors' League
+- 1887 // The Reinsurance Treaty
+  - Btwn Germany and Russia
+  - If either power should find itself in a *defensive* war, the other would maintain neutral
+- 1887 // The Mediterranean Agreements
+  - Btwn Great Britain, Austria, Italy
+  - They would maintain the status quo in the Balkans, the Near East, and North Africa 
+  - Mediated by Germany
+- 1890 // Bismarck steps down as chancellor, succeeded by William II
 
-Jekyll also offers powerful support for code snippets:
+1890-1914 - triple alliance and triple entente
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- 1890-1894 // Road to the Franco-Russian Alliance
+  - 1890, Summer // Reinsurance treaty expires
+    - French foreign ministry convinces the Kaiser not to renew the treaty.
+  - 1891 // French fleet visits the Russian naval base, Kronstadt
+  - 1892 // Nilitary talks btwn France and Russia
+  - 1893 // Russian fleet visits Toulon, France
+  - 1894 // Military Convention
+    - Should any member of the Triple Alliance mobilize, the two parties would mobilize as well.
+      - Should Germany or German-supported-Italy attack France, Russia would provide military assistance
+      - Should Germany or German-supported-Austria attack Russia, France would provide military assistance
+- 1898 // French-Ethiopian and Anglo-Egyptian army confront eachother in Fashoda.
+  - France yielded before battle broke out.
+- 1896-1903 // Anglo-German tensions rise
+  - conolial rivalries
+  - naval race
+  - economic rivalry
+1904 // Entente Cordiale
+  - France and Britain settled all outstanding colonial rivalries
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+
+
+
+
+[theoriginsofww1]: https://www.goodreads.com/book/show/1806193.The_Origins_of_World_War_I_1871_1914
+[treatyoffrankfurt]: https://en.wikipedia.org/wiki/Treaty_of_Frankfurt_(1871)
+
+
+<!--
+Check out [The Origins of World War 1][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].//]
+
+[jekyll-docs]: https://www.goodreads.com/book/show/1806193.The_Origins_of_World_War_I_1871_1914
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->

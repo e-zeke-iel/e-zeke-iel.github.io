@@ -1,9 +1,18 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
 entries:
-  - title: Home
-    url: /
+  - title: info
+    entries:
+      - title: personal website for EZEKIEL GOMEZ-GOLDBERG
+      - title: instagram
+        url: https://www.instagram.com/e_zeke_iel.photo/
+      - title: linkedin
+        url: https://www.linkedin.com/in/ezekielgomezgoldberg/
 
-  - title: About
-    url: /about/
-
-  - title: GitHub
-    url: https://github.com/e-zeke-iel
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
