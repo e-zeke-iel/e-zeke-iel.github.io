@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+# Home
+
+Welcome to my site.
