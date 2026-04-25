@@ -59,7 +59,7 @@ categories: jekyll update
   - Bosnia and Hergoslavia was to be autonomous
   - Russia would gain Romanian Bessarabia, territory in the Caucasus, and a large indemity
   - This treaty upset the balance of power and angered the rest of Europe
-- 1878, Summer // Meeting at Berlin to reconsider San Stefano
+- 1878, Summer // Congress at Berlin to reconsider San Stefano
   - Led by Bismarck
   - Serbia and Montenegro was to remain independent
   - Russia kept Kars, Batum, Bessarabia
@@ -115,9 +115,27 @@ categories: jekyll update
   - conolial rivalries
   - naval race
   - economic rivalry
-1904 // Entente Cordiale
-  - France and Britain settled all outstanding colonial rivalries
-
+- 1904 // Entente Cordiale
+  - France and Britain settled outstanding colonial rivalries
+- 1907 // The Anglo-Russian Accord
+  - Britain and Russia settled oustanding colonial rivalries
+    - Persia, Tibet, Afghanistan
+-1908-1909 // Bosnia and the Annexation Crisis
+  - Austria intended to annex Bosnia and Herzegovina (they had been occupying and adminsitering them since the Congress of Berlin)
+  - Angered Serbia the most, as well as Russia, Britain, France
+  - War was narrowly avoided in 1909. Austria kept Bosnia-Herzegovina, but paid compensation to Turkey.
+- 1911 // The Second Moroccan Crisis
+  - Conflict between France and Germany
+  - Germany refused to recognize a French protectorate over Morocco unless they were compensated
+  - France ceded territory in the Congo, Germany left Morocco alone
+- 1911-1912 // The Tripolitanian War
+  - Italy intended to annex Tripoli, which was under Ottoman control.
+  - Italy gained Tripoli under certain conditions
+    - Maintain neutrality to France in the case of a war where France was the agrieved party
+    - Leave Morocco to France
+    - Back Russian position on the Straits
+- 1912-1913 // The Balkan Wars
+  - 
 
 
 
