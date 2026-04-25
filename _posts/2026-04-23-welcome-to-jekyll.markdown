@@ -120,7 +120,7 @@ categories: jekyll update
 - 1907 // The Anglo-Russian Accord
   - Britain and Russia settled oustanding colonial rivalries
     - Persia, Tibet, Afghanistan
--1908-1909 // Bosnia and the Annexation Crisis
+- 1908-1909 // Bosnia and the Annexation Crisis
   - Austria intended to annex Bosnia and Herzegovina (they had been occupying and adminsitering them since the Congress of Berlin)
   - Angered Serbia the most, as well as Russia, Britain, France
   - War was narrowly avoided in 1909. Austria kept Bosnia-Herzegovina, but paid compensation to Turkey.
