@@ -177,7 +177,7 @@ the Outbreak of War
 - July 25, 5:58 PM // Serbia's response is received, complying with all but two points.
   - 10 PM // Austrian chief of staff recieves orders to mobilize against Serbia.
 
-
+![map](/_assets/_images/b&wMap_Europe_alliances_1914-en.svg.png)
 
 [theoriginsofww1]: https://www.goodreads.com/book/show/1806193.The_Origins_of_World_War_I_1871_1914
 [treatyoffrankfurt]: https://en.wikipedia.org/wiki/Treaty_of_Frankfurt_(1871)
