@@ -135,9 +135,47 @@ categories: jekyll update
     - Leave Morocco to France
     - Back Russian position on the Straits
 - 1912-1913 // The Balkan Wars
-  - 
+  - Bulgaria, Serbia, Montenegro, & Greece fought against Ottoman rule in the Balkans
+  - Russia was in favor of the Balkans countries
+  - 1913, May // Peace treaty is signed, Turkey ceases to be a European power.
+  - The Balkan countries begin arguing over won territories
+  - 1913, June // Bulgarians attack Greece and Serbia.
+    - Montenegro, Romania, and Turkey ally with Serbia and Greece.
+  - 1913, August // 2nd Balkan war is over under the Treaty of Bucharest, Bulgaria loses
 
+"It (The Balkan quarrels) contains some of the germs of 1914: the expansionist ambitions of the new nations of Southeastern Europe; the unashamed use of blunt force to settle territorial conflicts; the encouragement, on Russia's part, of Balkan violence; the opposition, on Austria's part, to Serbia's unchecked growth; the dissatisfaction of Bulgaria with the Macedonian settlement."
 
+Sarajevo 
+
+- ~~late 1913-early 1914 // Dragutin Dimitrijevié, lieutenant colonel to Royal Serbian Army and leader of the Black Hand, wishes Franz Ferdinand to die.
+  - Ferdinand would be coming to Bosnie in June 1914 to attend army maneuvers and then visit Sarajevo.
+  - Dimitrijevié tasks three nationalist Bosnians resident in Belgrade, Trifko Grabez, Nedjeljko Cabrinovie, Gavrilo Princip, to kill Ferdinand.
+- 1914, June 28 // The assasins take up their stations along Ferdinand's route.
+  - The first conspirator fails to act.
+  - The second conspirator, Cabrinovie, throws a bomb at the Ferdinand's car.
+    - The driver reacts in time, speeds up. The bomb misses, injuring spectators and the governor's aide.
+    - Cabrinovie is placed under arrest
+  - The remaining five conspirators fail to act.
+  - Ferdinand makes it safely to the City Hall.
+    - A new schedule is devised. The group will visit the wounded aide in the hospital, and then continue onto the museum. They would take a new route.
+    - The group fails to tell the driver of the new routes.
+    - Princip wanders from his post to Franz Joseph Street.
+  - The car leaves the city hall, entering onto Franz Joseph Street.
+  - Potiorek, the governor, calls to the driver "What is this? This is the wrong way! We're supposed to take Appel Quay!"
+  - The car begins to back up.
+  - Princip fires twice from less than five feet away. One bullet landed in Ferdinand's neck, the other in his wife Sophie's abdomin, killing them both.
+
+the Outbreak of War
+
+- July 5 // Germany confirms to Austria that they will provide their full support in a conflict with Serbia.
+-  Friedrich von Wiesner of Austrian foreign ministry is tasked to find direct evidence of Serbia's involvement in the assasination.
+  - July 10 // Wiesner arrives in Bosnia
+  - Jully 13 // Wiesner writes his dispatch.
+    - "There is nothing to indicate... that the Serbian government knew about the plot, its preparation, or the procurement of arms."
+- July 18 // Russia's foreign minister tells teh Austrian ambassador that Russia would not permit Austria to use threatening langauge or military measures against Serbia
+- July 23 // Austria finishes an unnatainable ultimatum to Serbia, expecting a reply by July 25.
+- July 25, 5:58 PM // Serbia's response is received, complying with all but two points.
+  - 10 PM // Austrian chief of staff recieves orders to mobilize against Serbia.
 
 
 
