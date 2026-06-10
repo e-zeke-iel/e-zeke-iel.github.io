@@ -7,176 +7,37 @@ categories: jekyll update
 ### historical summary based on [The Origins of World War 1][theoriginsofww1], by Joachim Remak
 
 
-1871-1890 -- the age of bismark
+Like any war, you can trace the factors that led up to World War 1 back as far as you can trace the history of the nations in whatever region the war took place. Remak, like many historians, places the begining of his narrative at the end of another war, the Franco-Prussian War. The end of the Franco-Prussian War and the subsequent development of the newly unified German Empire under Bismarck created a shift in Europe's balance of power, with only England and Russia maintaining their pre-1871 places.
 
-- 1870-1871 // The Franco-Prussian War 
-  - France
-    - The end of **Napoleon III** and the re-establishment of a French Republic. 
-    - According to the terms of the [Treaty of Frankfurt][treatyoffrankfurt], 
-      - France to pay 5,000,000,000 French francs,
-      - to surrender the province of Alsace as well as a considerable portion of Lorraine.
-  - Germany
-    - Prussia became unified under the German Empire, led by **Otto von Bismarck**
-  - Lasting tensions:
-    - Alsace-Lorraine
-      - Military motivation for annexation: the fortress of Metz in Lorraine was important to secure Germany against possible French attack
-      - Public opinion desired some concrete fruits of victory
-      - No matter the reasoning, this annexation created a cultural and diplomatic rift between Germany and France
-        - "Too many Frenchmen refused to resign themselves to the loss of Alsace-Lorraine" - p. 3 
-    - Europe's balance of power
-      - Only England and Russia maintained their places in comparison to pre-1871 Europe
-      - Austria weakened substantially
-      - France weakened substantially
-      - Prussia/Prussia-Germany strengthened substantially **
-      - Italy strengthened substantially
-- 1873 // The Three Emperor's League
-  - An alliance between Germany, Austria-Hungary, and Russia
-  - Terms:
-    - They would consuly one another on matters of mutual interest
-    - They would, at minimum, maintain friendly neutrality if one was attacked by another power
-  - Motivations for alliance
-    - Austria desired peace w/ Germany
-    - Germany wished to elimate the threat of a two-front war (Russia & France v. Germany) 
-  - Weaknesses
-    - Austria and Russia had conflicting national interest in regards to Southeastern Europe
-- 1875 // Revolt in Bosnia and Gerzegoniva against Ottoman Empire rule
-  - Motivations for revolt
-    - economic discontent
-    - national consciousness
-    - religious tension (Christian population v. the Muslim Turks)
-  - Serbia and Montenegro decided to fight for Bosnia.
-  - Revolt spread to Bulgaria.
-- 1877 // Russia joins fight against the Ottoman Empire.
-  - Russia desired weakened Ottomon Empire
-    - Control of the Dardanelles Strait for both shipping and navy
-    - Russian Pan-Slavism
-      - a desire to liberate the Slavs living under foreign (Austrian and Turkish) rule. 
-  - Russia ultimately won against Ottoman rule.
-- 1878, March // The Treaty of San Stefano
-  - Bulgaria was to become an autonomous principality stretching from the Black Sea to the Adriatic
-    - This was considered a misdirection, as the treaty included a two-year Russian occupation
-  - Romania, Serbia, and Montenegro were to be independent
-  - Bosnia and Hergoslavia was to be autonomous
-  - Russia would gain Romanian Bessarabia, territory in the Caucasus, and a large indemity
-  - This treaty upset the balance of power and angered the rest of Europe
-- 1878, Summer // Congress at Berlin to reconsider San Stefano
-  - Led by Bismarck
-  - Serbia and Montenegro was to remain independent
-  - Russia kept Kars, Batum, Bessarabia
-  - Bulgaria's size was reduced to 1/3 the size envisioned by San Stefano
-  - Britain gained Cyprus, France gained Tunis, Austria gained Bosnia and Herzegovina
-  - Russia felt betrayed by Germany, esp considering the Three Emperor's League
-  - Borders in the Balkans were drawn without concern for the populations, ignoring "ethnic realities and national ambitions"
-- 1879 // The Duel Alliance
-  - Three Emperor's League was over after Berlin.
-  - Replaced with The Duel Alliance btwn Germany and Austria
-  - Should Russia attack either country, they would aid eachother
-  - Should they be attacked by a power besides Russia, they would remain neutral
-- 1881 // Three Emperors' League Renewed
-  - Btwn Germany, Russia, Austria
-  - If any one of them was to find itself at war with a fourth power, the other two would remain neutral
-  - Neutrality only applied to a war against the Ottomon Empire if the members first agreed on the results of the war
-  - Lacked the defensive clause included in the first Three Emperors' League
-- 1882 // The Triple Alliance
-  - Italy joined The Duel Alliance
-- 1885 - 1887 // The Bulgarian Crisis & End of the Three Emperors' League
-  - Bulgaria supports a revolt in Eastern Rumelia, aiming for annexation
-    - Eastern Rumelia was very Bulgarian, this territory was included in San Stefano but removed in Berlin. Note the drawing of territories by larger imperial powers that lead to conflicts.
-  - Serbia declared war, fearing a powerful Bulgaria
-  - Bulgaria wins against Serbia
-  - Russia threatens to occupy Bulgaria
-    - Austria takes stand for independent Bulgaria in order to halt Russian control of the Balkans.
-    - Great Britain and Germany stand against Russia
-    - This ends the Three Emperors' League
-- 1887 // The Reinsurance Treaty
-  - Btwn Germany and Russia
-  - If either power should find itself in a *defensive* war, the other would maintain neutral
-- 1887 // The Mediterranean Agreements
-  - Btwn Great Britain, Austria, Italy
-  - They would maintain the status quo in the Balkans, the Near East, and North Africa 
-  - Mediated by Germany
-- 1890 // Bismarck steps down as chancellor, succeeded by William II
+In 1873, Germany, Russia, and Austria entered into the Three Emperor's League. This and subsequent alliances between Austria and Russia would prove untenable, as they competed for power and influence in the Balkans.
 
-1890-1914 - triple alliance and triple entente
+Throughout the 1800s, cracks in the Ottoman Empire's rule over the Balkans had begun to show, In 1877, Russia joined a revolt started by Bosnia and Gerzegoniva against Ottoman rule. When the war was won in 1878, Russia tried to pass the Treaty of San Stefano, which would greatly increase their power in the Balkans, as well as change the territories of the existing balkan countries. This Treaty obviously didn't sit well with the rest of Europe, so Bismarck organized a Congress in Berlin where they would amend the Treaty. Ultimately, Russian would-be influence in the Balkans was ruined, which ended the Three Emperor's League. The European powers also took it upon themselves to define the borders of the Balkans territories, which had little concern for ethnic realities and national ambitions.
 
-- 1890-1894 // Road to the Franco-Russian Alliance
-  - 1890, Summer // Reinsurance treaty expires
-    - French foreign ministry convinces the Kaiser not to renew the treaty.
-  - 1891 // French fleet visits the Russian naval base, Kronstadt
-  - 1892 // Nilitary talks btwn France and Russia
-  - 1893 // Russian fleet visits Toulon, France
-  - 1894 // Military Convention
-    - Should any member of the Triple Alliance mobilize, the two parties would mobilize as well.
-      - Should Germany or German-supported-Italy attack France, Russia would provide military assistance
-      - Should Germany or German-supported-Austria attack Russia, France would provide military assistance
-- 1898 // French-Ethiopian and Anglo-Egyptian army confront eachother in Fashoda.
-  - France yielded before battle broke out.
-- 1896-1903 // Anglo-German tensions rise
-  - conolial rivalries
-  - naval race
-  - economic rivalry
-- 1904 // Entente Cordiale
-  - France and Britain settled outstanding colonial rivalries
-- 1907 // The Anglo-Russian Accord
-  - Britain and Russia settled oustanding colonial rivalries
-    - Persia, Tibet, Afghanistan
-- 1908-1909 // Bosnia and the Annexation Crisis
-  - Austria intended to annex Bosnia and Herzegovina (they had been occupying and adminsitering them since the Congress of Berlin)
-  - Angered Serbia the most, as well as Russia, Britain, France
-  - War was narrowly avoided in 1909. Austria kept Bosnia-Herzegovina, but paid compensation to Turkey.
-- 1911 // The Second Moroccan Crisis
-  - Conflict between France and Germany
-  - Germany refused to recognize a French protectorate over Morocco unless they were compensated
-  - France ceded territory in the Congo, Germany left Morocco alone
-- 1911-1912 // The Tripolitanian War
-  - Italy intended to annex Tripoli, which was under Ottoman control.
-  - Italy gained Tripoli under certain conditions
-    - Maintain neutrality to France in the case of a war where France was the agrieved party
-    - Leave Morocco to France
-    - Back Russian position on the Straits
-- 1912-1913 // The Balkan Wars
-  - Bulgaria, Serbia, Montenegro, & Greece fought against Ottoman rule in the Balkans
-  - Russia was in favor of the Balkans countries
-  - 1913, May // Peace treaty is signed, Turkey ceases to be a European power.
-  - The Balkan countries begin arguing over won territories
-  - 1913, June // Bulgarians attack Greece and Serbia.
-    - Montenegro, Romania, and Turkey ally with Serbia and Greece.
-  - 1913, August // 2nd Balkan war is over under the Treaty of Bucharest, Bulgaria loses
+In 1879, Germany entered into the Duel Alliance with Austria, which gave them defensive power against Russia. In 1882, Italy joined the Duel Alliance to create the Triple Alliance, the alliance that would go on to war with the Triple Entente throughout WW1.
 
-"It (The Balkan quarrels) contains some of the germs of 1914: the expansionist ambitions of the new nations of Southeastern Europe; the unashamed use of blunt force to settle territorial conflicts; the encouragement, on Russia's part, of Balkan violence; the opposition, on Austria's part, to Serbia's unchecked growth; the dissatisfaction of Bulgaria with the Macedonian settlement."
+The Three Emperor's League was renewed in 1881 with some changes, but collapsed again due to another conflict in the Balkans between 1885-1887. The Bulgarian Crisis was a complex conflict which ended, but did not begin, between Serbia and Bulgaria. There are a couple pieces of the Bulgarian Crisis that proved relevant for WW1. It showed how the borders defined in Berlin only served to build further instability in the Balkans, and that the minor conflicts in the Balkans could quickly destabilize peace in Europe, oweing to conflicting national interests and complex alliances.
 
-Sarajevo 
+In 1890, Bismarck was surpassed by William II, who proved disastrous for German's global relations. Under William II, nationalism and militarism in Germany reached new heights. The 1890s also began the formation of the Triple Entente. First, France built a friendly relationship with Russia, culminating in the 1894 Military Convention, where they created a defensive understanding against the Triple Alliance. In 1904, France and Britain settled all outstanding colonial rivalries with the Entente Cordiale. In 1907 Britain and Russia followed suite, creating the Anglo-Russian Accord. 
 
-- ~~late 1913-early 1914 // Dragutin Dimitrijevié, lieutenant colonel to Royal Serbian Army and leader of the Black Hand, wishes Franz Ferdinand to die.
-  - Ferdinand would be coming to Bosnie in June 1914 to attend army maneuvers and then visit Sarajevo.
-  - Dimitrijevié tasks three nationalist Bosnians resident in Belgrade, Trifko Grabez, Nedjeljko Cabrinovie, Gavrilo Princip, to kill Ferdinand.
-- 1914, June 28 // The assasins take up their stations along Ferdinand's route.
-  - The first conspirator fails to act.
-  - The second conspirator, Cabrinovie, throws a bomb at the Ferdinand's car.
-    - The driver reacts in time, speeds up. The bomb misses, injuring spectators and the governor's aide.
-    - Cabrinovie is placed under arrest
-  - The remaining five conspirators fail to act.
-  - Ferdinand makes it safely to the City Hall.
-    - A new schedule is devised. The group will visit the wounded aide in the hospital, and then continue onto the museum. They would take a new route.
-    - The group fails to tell the driver of the new routes.
-    - Princip wanders from his post to Franz Joseph Street.
-  - The car leaves the city hall, entering onto Franz Joseph Street.
-  - Potiorek, the governor, calls to the driver "What is this? This is the wrong way! We're supposed to take Appel Quay!"
-  - The car begins to back up.
-  - Princip fires twice from less than five feet away. One bullet landed in Ferdinand's neck, the other in his wife Sophie's abdomin, killing them both.
+From 1912 and 1913, yet another Balkan conflict began. 
 
-the Outbreak of War
+“It (The Balkan quarrels) contains some of the germs of 1914: the expansionist ambitions of the new nations of Southeastern Europe; the unashamed use of blunt force to settle territorial conflicts; the encouragement, on Russia’s part, of Balkan violence; the opposition, on Austria’s part, to Serbia’s unchecked growth; the dissatisfaction of Bulgaria with the Macedonian settlement.”
 
-- July 5 // Germany confirms to Austria that they will provide their full support in a conflict with Serbia.
--  Friedrich von Wiesner of Austrian foreign ministry is tasked to find direct evidence of Serbia's involvement in the assasination.
-  - July 10 // Wiesner arrives in Bosnia
-  - Jully 13 // Wiesner writes his dispatch.
-    - "There is nothing to indicate... that the Serbian government knew about the plot, its preparation, or the procurement of arms."
-- July 18 // Russia's foreign minister tells teh Austrian ambassador that Russia would not permit Austria to use threatening langauge or military measures against Serbia
-- July 23 // Austria finishes an unnatainable ultimatum to Serbia, expecting a reply by July 25.
-- July 25, 5:58 PM // Serbia's response is received, complying with all but two points.
-  - 10 PM // Austrian chief of staff recieves orders to mobilize against Serbia.
+on June 28, 1914 Arch Duke Ferdinand is assassinated in Sarajevo. The assassination was a coordinated effort by the Black Hand, a secret serbian military society led by Dragutin Dimitrijevic, who was also the chief of intelligence of the Serbian Army. The groups goal was a Greater Serbia, stretching from Bosnia-Herzegovina to Macedonia which would unite all territories with a South Slavic majority population. Ferdinand proposed reforms that would help the slavs in Austria, whose discontent was necessary for the national goals of the Black Hand. 
 
+Austria didn't respond immediately. They first needed to know two things; whether Germany would aid them in a war against Serbia, especially if Russia gives aid to Serbia; and the extent of Serbia's culpability. For the latter, Friedrich von Wiesner was dispatched to investigate the assassination. Germany responded to the first question on July 5th, confirming that they would stand with Austria-Hungary against Serbia. On July 14, Wiesner drafted a dispatch for Vienna on the result of the investigation, saying that there was no evidence that the Serbian government knew about the plot, it's preparation, or the procurement of arms. The Sarajevo authorities discovered that the assassins were recent visitors of Belgrade, that the bombs were manufactured in Serbia and that two men who aided the assassins were from Serbia, one of them being a major in the army--but they never discovered the Black Hand, which explains Wiesner's failed investigation.
+
+Austria finished an ultimatum to Serbia on July 23. The stipulations weren't meant to be achievable, only to give justification to future action. Serbia's response arrived on July 25, fulfilling all but two stipulations. On July 28, Austria declared war on Serbia. Fortunately, the war at this point was by no means the "great war" that it would become, and Europe's leaders worked desperately to prevent it from becoming so. 
+
+Despite this, Russia did make some defensive moves against Austria and Germany, beginning a "partial mobilization" of forces towards Austria. This was approved by the Tsar on July 25th, who gave approved partial mobilization against Austria in case of need. Unfortunately, the Russian foreign mister Sazonov's idea of a partial mobilization was not possible, as the general staff came to the conclusion that any mobilization against Austria would be a provocation against not only Austria but Germany as well. As such, a general mobilization against both powers began. Due to these circumstances, Sazonov was forced to lean into the policy of strength. 
+
+Being faced with a two front war against Russia and France, Germany knew their only hope of winning was speed due to their railroads and overall military efficiency. On the afternoon of July 31st, Germany sent out two desperate ultimatums to Russia and France. To Russia to suspend mobilization within 12 hours or face a German response. To France a request to, within 18 hours, promise neutrality in the event of a Russo-German war.
+
+On July 31st, Austria-Hungary began general mobilization. France ordered mobilization on August 1st.
+
+Germany's only working plan to beat France was developed in 1905 by General von Schlieffen. The plan proposed moving through Luxembourg and Belgium, attacking French forces by surprise from the North. This plan would violate the Germany's treaties with Belgium, but they saw no other winning option. German troops invaded Luxembourg on August 2nd at 7pm. This invasion not only drew Belgium into the war against Germany, but also ruined any chance of English neutrality, who valued the defense of Belgian's channel ports. Germany invaded Belgium on August 2nd, leading to England's declaration of war against Germany on August 4th. 
+
+The war continued to expand both within and beyond Europe. Turkey entered the war in 1914, and Bulgaria the year after. Italy, Portugal, Romania, Japan, the United States, and China all joined the Allied side.
 ![map](https://github.com/e-zeke-iel/e-zeke-iel.github.io/blob/main/_assets/_images/b&wMap_Europe_alliances_1914-en.svg.png?raw=true)
 
 [theoriginsofww1]: https://www.goodreads.com/book/show/1806193.The_Origins_of_World_War_I_1871_1914
